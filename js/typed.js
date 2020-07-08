@@ -1,0 +1,1 @@
+var typed=new Typed("#site-sub-title",{strings:["一个技术与艺术结合的博客站点","Blog site combining art and technology"],typeSpeed:50,backSpeed:66,startDelay:100,loop:!0,loopCount:5});
