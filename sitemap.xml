@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://liuhongwei3.github.io/2020/09/18/react-hooks/</loc>
+    
+    <lastmod>2020-09-18T12:20:23.123Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://liuhongwei3.github.io/2020/09/18/vue-diff/</loc>
+    
+    <lastmod>2020-09-18T08:40:55.449Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://liuhongwei3.github.io/2020/05/23/tadm-player-react/</loc>
+    
+    <lastmod>2020-09-18T08:38:08.134Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://liuhongwei3.github.io/2019/11/20/Aria2Install/</loc>
     
     <lastmod>2020-08-20T08:29:26.129Z</lastmod>
@@ -68,13 +89,6 @@
     <loc>https://liuhongwei3.github.io/2019/11/16/GitStudy/</loc>
     
     <lastmod>2020-05-23T10:30:31.332Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://liuhongwei3.github.io/2020/05/23/tadm-player-react/</loc>
-    
-    <lastmod>2020-05-23T10:30:03.853Z</lastmod>
     
   </url>
   
